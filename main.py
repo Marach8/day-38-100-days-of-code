@@ -1,5 +1,5 @@
 a = input('''
-Write your sentence here
+Write your sentence here.
 >> ''')
 print()
 for i in a:
